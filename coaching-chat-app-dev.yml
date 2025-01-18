@@ -1,6 +1,6 @@
 coach:
   chat:
-    timeout: 1000
+    welcomeText: Welcome! Connection established.
 member:
   chat:
-    timeout: 2000
+    welcomeText: Welcome! Connection established. Waiting for a support agent to connect...
