@@ -1,0 +1,6 @@
+coach:
+  chat:
+    timeout: 1000
+member:
+  chat:
+    timeout: 2000
