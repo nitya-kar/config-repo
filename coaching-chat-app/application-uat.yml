@@ -1,0 +1,6 @@
+coach:
+  chat:
+    welcomeText: Welcome! Connection established.
+member:
+  chat:
+    welcomeText: Welcome! Connection established. Waiting for a support agent to connect...
