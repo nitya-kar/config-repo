@@ -11,4 +11,4 @@ spring:
     driverClassName: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/coaching_chat_app?currentSchema=coaching_chat_app
     username: coaching_chat
-    password: admin1
+    password: admin
