@@ -1,2 +1,14 @@
 common:
   property: commonValue
+spring:
+  jpa:
+    properties:
+      hibernate:
+        hbm2ddl:
+          auto: update
+        default_schema: coaching_chat_app
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/coaching_chat_app?currentSchema=coaching_chat_app
+    username: coaching_chat
+    password: admin
