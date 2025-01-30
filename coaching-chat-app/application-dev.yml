@@ -1,6 +1,6 @@
 coach:
   chat:
-    welcomeText: Welcome! Connection established.
+    welcomeText: Welcome! Connection established. Nitya dev to test
 member:
   chat:
     welcomeText: Welcome! Connection established. Waiting for a support agent to connect...
